@@ -1,0 +1,92 @@
+
+
+
+
+
+
+.augseja-kaste {
+    height: 100px;
+    width: 100px;
+background-color: rgb(255, 23, 166);
+
+
+
+
+}
+
+.videja-kaste {
+    width: 100px;
+    height: 100px;
+background-color: lime;
+
+
+
+}
+
+.apakseja-kaste {
+    width: 100px;
+    height: 100px;
+    background-color: fuchsia;
+
+}
+
+
+.pirma-kaste {
+    height: 100px;
+    width: 100px;
+background-color: rgb(0, 0, 255);
+
+
+
+
+}
+
+.otra-kaste {
+    width: 100px;
+    height: 100px;
+background-color: rgb(255, 0, 0);
+
+}
+
+.tresa-kaste {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 230, 7);
+
+
+
+}
+
+.ceturta-kaste {
+    height: 100px;
+    width: 100px;
+background-color: rgb(255, 136, 0);
+
+}
+
+.piekta-kaste {
+    width: 100px;
+    height: 100px;
+background-color: rgb(143, 84, 219);
+
+
+}
+
+
+
+
+.container {
+display: flex;
+flex-direction: row-reverse;
+flex-wrap: wrap;
+justify-content: center;
+
+align-items: stretch;
+
+border: 1px solid;
+height: 100vh;
+gap: 10px;
+
+
+
+}
